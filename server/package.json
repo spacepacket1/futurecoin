@@ -1,0 +1,15 @@
+{
+  "name": "futurecoin",
+  "version": "1.0.0",
+  "description": "manage futurecoin transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "futurecoin"
+  },
+  "author": "spacepacket",
+  "license": "ISC"
+}
